@@ -44,7 +44,8 @@ The next step is to setup a Security Group, this is where you allow your server 
 
 After finishing creating the security group, head back to the **Network Settings** section (in the EC2 creation page) and click "Select existing security group", select the one we've just created and then hit "Lauch instance" to create the instance.
 
-![image](https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/c414e60e-4136-4e45-b0e5-f7b608bfef0b)
+<img width="1511" alt="Screenshot 2023-09-22 at 18 25 36" src="https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/6bfc28d0-a983-4bb5-92b8-31491e7abc9b">
+
 
 &nbsp;
 
