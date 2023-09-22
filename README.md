@@ -31,7 +31,7 @@ The next step is to choose your instance type, there are many options for you to
 <img width="1788" alt="Screenshot 2023-09-22 at 17 28 01" src="https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/e9940a71-39fe-4194-aa39-e11bb75dfbca">
 
 
-After selecting your instance type, the next step is to set up a key pair for secure server access. You should do this because you don't want your server to be insecurely connected, right? BUT If you continue without key-pair, you wont be able to SSH to your server.
+After selecting your instance type, the next step is to set up a key pair for secure server access. You should do this because you don't want your server to be insecurely connected, right? BUT If you continue without key-pair, you wont be able to SSH to your server. (Download the key pair and store it in a folder, we will use later)
 
 <img width="1788" height="550"  alt="Screenshot 2023-09-22 at 17 40 01" src="https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/e6d203de-b66d-49d0-85ce-013dd4c61dff">
 
