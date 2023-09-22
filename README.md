@@ -15,12 +15,14 @@ So please ensure that you and your friends are using the same type of Minecraft 
 
 Log into your AWS account and head to the EC2 console. Click the "Lauch Instances" button to go to the setup EC2 instances page.
 
-<img width="1788" alt="Screenshot 2023-09-22 at 17 20 06" src="https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/bf89c6a7-deae-4827-90fd-9bc4e09adcc4">
+<img width="1750" alt="Screenshot 2023-09-22 at 18 15 02" src="https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/3478083d-1e69-40a0-8fa9-e094632f6844">
+
 
 
 Enter your server name and choose the Amazon Linux 2023 AMI instance from the Amazon Machine Image
 
-<img width="1788" height="550" alt="Screenshot 2023-09-22 at 17 24 11" src="https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/09e42054-23d4-4dc8-8ffd-9a6b048cd90e">
+<img width="1750" height="550" alt="Screenshot 2023-09-22 at 18 17 03" src="https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/7b9e9aea-89f1-424a-820b-93ae3aeead21">
+
 
 
 The next step is to choose your instance type, there are many options for you to choose from. It depends on how many players you will have in a Minecraft World. For 3-4 players, a t2.small instance will be a good option. So, choose the instance type that meets your needs.
@@ -44,6 +46,10 @@ After finishing creating the security group, head back to the **Network Settings
 
 ![image](https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/c414e60e-4136-4e45-b0e5-f7b608bfef0b)
 
+&nbsp;
+
 <img width="1675" alt="Screenshot 2023-09-22 at 17 45 14" src="https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/461a827f-cd09-47e2-ab13-478fce622dd2">
+
+&nbsp;
 
 <img width="1234" alt="Screenshot 2023-09-22 at 18 10 58" src="https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/98837b84-9f3f-4a3b-9693-9a928252511e">
