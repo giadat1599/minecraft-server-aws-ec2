@@ -99,7 +99,7 @@ Download the minecraft server file. See [here](https://www.minecraft.net/en-us/d
 
 <img width="1788" alt="Screenshot 2023-09-23 at 22 30 59" src="https://github.com/giadat1599/minecraft-server-aws-ec2/assets/114280300/458e86e5-5d75-4d42-964b-9269c9bd27fc">
 
-## Step #5: Running the minecraft server
+## Step #5: Run the minecraft server
 
 Run this command  `java -Xmx1024M -Xms1024M -jar server.jar nogui`
 
